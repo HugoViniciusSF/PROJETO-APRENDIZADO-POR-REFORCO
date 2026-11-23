@@ -1,0 +1,30 @@
+# Arquivos locais de planejamento
+planejamento.md
+Plano_Reforco_Projeto.md
+
+# Sistema operacional
+.DS_Store
+
+# Python e ambientes virtuais
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Compilacao LaTeX temporaria
+*.aux
+*.log
+*.out
+*.toc
+*.xdv
+*.synctex.gz
+*.fls
+*.fdb_latexmk
